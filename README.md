@@ -1,5 +1,5 @@
 ## Description
-Project to learn the concepts of Prisma ORM
+Simple project to get some practice to work with nestJs and React
 
 ## Backend
 ## Installation
